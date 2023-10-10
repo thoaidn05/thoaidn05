@@ -8,7 +8,7 @@ I've been learning to code for 4 years. I started with HTML, but have really fou
 
 * 🌍  I'm based in Binh Duong
 * ✉️  You can contact me at [thoaidn05@gmail.com](mailto:thoaidn05@gmail.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning Electronic And Telecommunication Engineering
 
 ### Skills
 
