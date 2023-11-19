@@ -1,7 +1,7 @@
 Hi 👋 My name is Do Ngoc Thoai
 ==============================
 
-Embedded Developer
+Embedded and IoT Developer
 -----------------
 # 💫About Me :
 * 🌍 I'm a fourth-year student at HCMUTE
